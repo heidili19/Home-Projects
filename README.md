@@ -16,3 +16,26 @@ Files
 
 3. MemoryPuzzle 
 	-- It is a copy from someone else to practice/play with pygame
+
+4. altValuesinList
+	-- function that combines two lists by alternating elements
+
+5. fib and fibonacci 
+	-- calculates the fibonacci of any positive input number
+
+6. insertInSortedArray 
+	-- Given a sorted array of positive integer with an empty spot at the end, insert an element
+
+7. nFactorial
+	-- Calculates nFactorial recursively
+
+8. PracticeExamples
+	-- 4 Functions that can compute the sume of the numbers in a list
+		-- using sum in python (simple function
+		-- recursively
+		-- with a for loop
+		-- with a while loop
+
+9. reverseArrayOrder
+	-- Reverses the order of an array without creating an array
+	
